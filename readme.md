@@ -48,3 +48,15 @@ https://restfulapi.net/rest-architectural-constraints/
 JWT:
 https://en.wikipedia.org/wiki/Access_token
 https://en.wikipedia.org/wiki/JSON_Web_Token
+
+## Автоматы:
+### 651005
+
+* Вариков 8
+* Задружная 8
+* Кохан 8
+* Остапенко 9
+* Плиска 8
+* Савенок 8
+* Шатько 8
+* Яичевский 8 
